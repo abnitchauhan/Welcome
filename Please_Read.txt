@@ -1,0 +1,8 @@
+I have created a Database named trial1
+
+which contains two tables
+
+1. posts
+2. registers 
+
+Further Details are given in the images
